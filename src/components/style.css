@@ -1,0 +1,33 @@
+.card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-body {
+    width: 100%;
+    display: flex;
+    padding: 0.25rem 0.25rem;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.card-text{
+  
+}
+p {
+    margin-top: 1rem;
+    /* margin-bottom: 1rem; */
+}
+.cont{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+.btn-info{
+    width: 6rem;
+}
+.navbar{
+    margin-bottom: .5rem;
+}
+.spcl{
+    margin: 0px .5rem;
+}
