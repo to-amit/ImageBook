@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ImageBook/static/css/main.d23a9121.css",
+    "main.js": "/ImageBook/static/js/main.1d4ebc56.js",
+    "index.html": "/ImageBook/index.html",
+    "main.d23a9121.css.map": "/ImageBook/static/css/main.d23a9121.css.map",
+    "main.1d4ebc56.js.map": "/ImageBook/static/js/main.1d4ebc56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d23a9121.css",
+    "static/js/main.1d4ebc56.js"
+  ]
+}
